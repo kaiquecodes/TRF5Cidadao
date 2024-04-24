@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Esse aplicativo foi desenvolvido como TCC da residência em desenvolvimento de software do Instituto Metrópole Digital (IMD-UFRN) em conjunto com o Tribunal Regional Federal da 5º região (TRF5). Seu objetivo é disponibilizar os serviços do TRF5 nas plataformas mobile e com isso possibilitar mais um canal de comunicação com os cidadões.
+Esse aplicativo foi desenvolvido para meu trabalho de conclusão de curso da especialização em desenvolvimento de software do Instituto Metrópole Digital (IMD-UFRN) em conjunto com o Tribunal Regional Federal da 5º região (TRF5). Seu objetivo é disponibilizar os serviços do TRF5 nas plataformas mobile e com isso possibilitar mais um canal de comunicação com os cidadões.
 
 ## Telas
 
