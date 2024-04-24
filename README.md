@@ -8,11 +8,11 @@ Esse aplicativo foi desenvolvido para o meu trabalho de conclusão de curso da e
 
 Painel     |  Notícias | Notícia
 --------- | ---------------- | ----------------
-<img src="https://github.com/kaiquecodes/Projetos-mobile/blob/main/TRF5%20Cidad%C3%A3o/Screenshot_20230319_223914.jpg" width = 300px> | <img src="https://github.com/kaiquecodes/Projetos-mobile/blob/main/TRF5%20Cidad%C3%A3o/Screenshot_20230319_155637.jpg" width = 300px> | <img src="TRF5 Cidadão/Screenshot_20230319_163131.jpg" width = 300px> 
+<img src="TRF5 Cidadão/Screenshot_20230319_223914.jpg" width = 300px> | <img src="TRF5 Cidadão/Screenshot_20230319_155637.jpg" width = 300px> | <img src="TRF5 Cidadão/Screenshot_20230319_163131.jpg" width = 300px> 
 
 Busca Processual     |  Balcão Virtual | Contatos
 --------- | ---------------- | ----------------
-<img src="TRF5 Cidadão/Screenshot_20230319_223919.jpg" width = 300px> | <img src="TRF5 Cidadão/Screenshot_20230319_223940.jpg" width = 300px> | <img src="https://github.com/kaiquecodes/Projetos-mobile/blob/main/TRF5%20Cidad%C3%A3o/Screenshot_20230319_223950.jpg" width = 300px> 
+<img src="TRF5 Cidadão/Screenshot_20230319_223919.jpg" width = 300px> | <img src="TRF5 Cidadão/Screenshot_20230319_223940.jpg" width = 300px> | <img src="TRF5 Cidadão/Screenshot_20230319_223950.jpg" width = 300px> 
 
 Contato    | -  | -
 --------- | ---------------- | ----------------
